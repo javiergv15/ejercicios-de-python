@@ -1,0 +1,4 @@
+a=["simon","karla"]
+b=["yuli","carlos"]
+a.append(b)
+print(a)
